@@ -1,5 +1,3 @@
-This is a calculator application built with React that uses Redux to handle state and transitions. 
-
 ## Getting Started:
 
 1. Fork and clone this repo
