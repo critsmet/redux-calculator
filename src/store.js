@@ -1,4 +1,5 @@
 import { createStore } from 'redux'
+import { SET_MODE, SET_FIRST_NUMBER, SET_SECOND_NUMBER, SAVE_NUMBER } from './actionTypes'
 
 //This sets the state for the reducer and thus the store
 const initialState = {
