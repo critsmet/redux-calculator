@@ -4,7 +4,9 @@ This is a calculator application built with React that uses Redux to handle stat
 
 1. Fork and clone this repo, CD into the folder in your terminal, and run 'npm install'.
 
-2. After you've downloaded the dependencies, run 'npm start'. The application will launch in the browser on your local server. 
+2. After you've downloaded the dependencies, run 'npm start'. The application will launch in the browser on your local server.
+
+3. To see Jest tests, run 'npm test'.
 
 ## To Use:
 
