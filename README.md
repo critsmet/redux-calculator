@@ -1,6 +1,6 @@
 ## Getting Started:
 
-1. Fork and clone this repo
+1. Fork and clone this repo.
 
 2. cd into the project folder in your terminal, and run 'npm install'.
 
