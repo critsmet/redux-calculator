@@ -60,7 +60,6 @@ const ModeButton = ({mode, stateMode, a, b, setMode, setFirstNumber, setSecondNu
 }
 
 const mapStateToProps = (state) => {
-  //letting the component know about the state's mode versus the mode it represents will cause the color to change if there's a match
   return {
     stateMode: state.mode,
     a: state.a,
