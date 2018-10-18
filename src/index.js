@@ -4,7 +4,7 @@ import { render } from 'react-dom';
 import { Provider } from 'react-redux'
 
 //components
-import store from './store.js'
+import store from './store/store.js'
 import App from './components/App.js';
 
 //The provider component wraps the application and gives all children access to the store
